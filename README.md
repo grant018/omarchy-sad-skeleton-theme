@@ -2,7 +2,7 @@
 
 A dark [Omarchy](https://omarchy.org/) theme: purple, moss green and a skeleton having a hard time.
 
-![Sad Skeleton desktop](.github/desktop.png)
+![The purple wallpaper's intro animation](.github/purple-intro.gif)
 
 ## Install
 
@@ -18,7 +18,7 @@ Built and tested on Omarchy 4.5.
 - **An animated intro for each wallpaper**: the figure draws itself in the dark, one tear falls, and the color floods out across the floor from where it lands. It ends on the exact wallpaper, so the handoff is invisible.
 - **A palette tuned to the art**, generated with [Aether](https://github.com/omacom/aether). Omarchy builds the terminal, editor and app configs from it.
 
-![The purple wallpaper's intro animation](.github/purple-intro.gif)
+![Sad Skeleton desktop](.github/desktop.png)
 
 The intros play when you switch to the theme and at startup. They're 5 seconds, 60 fps and silent. To turn them off, run `omarchy theme bg intro disable`.
 
