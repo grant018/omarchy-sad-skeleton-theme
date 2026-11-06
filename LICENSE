@@ -5,7 +5,7 @@ Copyright (c) 2026 Grant Ryan
 This license covers the theme's configuration files only, such as colors.toml
 and icons.theme. It does not cover the artwork: the images in backgrounds/,
 preview.png, the clips in backgrounds/intros/ (which are derived from those
-images), and the images in .github/. See the Credits section of the README.
+images), and the images in .github/.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
